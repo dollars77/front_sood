@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f93bf40c.css",
-    "main.js": "/static/js/main.f141f4c5.js",
+    "main.css": "/static/css/main.c8ca922a.css",
+    "main.js": "/static/js/main.5da0f2f3.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/wallpaper_login_main.jpg": "/static/media/wallpaper_login_main.aabd4b8ba0319b5f78b6.jpg",
+    "static/media/bonus_icon.png": "/static/media/bonus_icon.4439afe53e1f3ab5dfd1.png",
+    "static/media/slot_icon.png": "/static/media/slot_icon.03f0be64a0fc0f915b7a.png",
     "static/media/wallpaper_login_main2.jpg": "/static/media/wallpaper_login_main2.46a4b796b0a0bd89ea47.jpg",
     "static/media/bg2.jpg": "/static/media/bg2.431e8c33e63f75e4d104.jpg",
     "static/media/coin_icon.png": "/static/media/coin_icon.d4da20ec04c91ae2e949.png",
@@ -12,6 +14,7 @@
     "static/media/gsb.svg": "/static/media/gsb.ae249f1090340b6dc78a.svg",
     "static/media/188bet_512x512_backup.png": "/static/media/188bet_512x512_backup.eafb51d23b5a81574a31.png",
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
+    "static/media/new_text.png": "/static/media/new_text.42c672da45ec6138566e.png",
     "static/media/website.png": "/static/media/website.42d3a8dfacb2d71d5732.png",
     "static/media/mm_icon.png": "/static/media/mm_icon.8d0a9f59dd421a287dfb.png",
     "static/media/new-animated-gif-icon.gif": "/static/media/new-animated-gif-icon.967868cc231ca1b4f3bf.gif",
@@ -61,12 +64,12 @@
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "index.html": "/index.html",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
-    "main.f93bf40c.css.map": "/static/css/main.f93bf40c.css.map",
-    "main.f141f4c5.js.map": "/static/js/main.f141f4c5.js.map",
+    "main.c8ca922a.css.map": "/static/css/main.c8ca922a.css.map",
+    "main.5da0f2f3.js.map": "/static/js/main.5da0f2f3.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f93bf40c.css",
-    "static/js/main.f141f4c5.js"
+    "static/css/main.c8ca922a.css",
+    "static/js/main.5da0f2f3.js"
   ]
 }
